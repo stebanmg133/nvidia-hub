@@ -1,3 +1,5 @@
+-Steban Muñoz Gallego 
+
 # NVIDIA Atlas
 
 Sitio interactivo en español sobre el ecosistema NVIDIA, hecho con Java, Spring Boot, Tailwind CSS y JavaScript.
